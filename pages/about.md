@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Page" %}
 
 ## About the Collection
 This project contains building a collection of 24 digitized images of African American publications (magazines, journals, newspapers) from the early-to-mid twentieth century to highlight, contextualize, and commemorate the political and creative significance of these resources. Additionally, the site also contains contextual pages to provide expand on and articulate the import of the materials available for viewing and study on the site. 
