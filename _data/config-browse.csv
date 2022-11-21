@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
 creator,Publishing Company,,,Publishing Company
-type,Publication Type,,true ,Publication Type
-date,Time Period,,true ,Time Period
+type,Publication Type,true ,,Publication Type
+date,Time Period,true ,,Time Period
