@@ -5,7 +5,6 @@ permalink: /related.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
 # Related Resources
 ## Other digital resources about the history of the African American press in the United States
 
